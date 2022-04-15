@@ -16,9 +16,6 @@ void sort(int n, int arr[]){
         cout<<arr[i];
     }
 }
-// void outp(arr){
-
-// }
 int main(){
     int n = 10;
     int array[n] = {1, 3, 5, 7, 9, 2, 4, 6, 8};
