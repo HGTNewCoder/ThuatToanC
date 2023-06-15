@@ -24,6 +24,8 @@ int Search(int target, int begin, int end){
 		return middle;
 	}
 	else return 0;
+
+
 }
 int main(){
 	Search(1, 0, 6);

@@ -12,7 +12,6 @@ void enterArrayValue(int valueA, int valueB, int valueC){
 		cout<<answer[i];
 	}
 }
-
 void pytago(int number){
 	for (int i = 1; i < number; i++){
 		for (int j = 1; j < number; j++){
