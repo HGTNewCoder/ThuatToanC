@@ -7,7 +7,7 @@ using namespace std;
 #define vi vector<int>
 void setIO(string s){
   freopen((s + ".in").c_str(), "r", stdin);
-//  freopen((s + ".out").c_str(), "w", stdout);
+  freopen((s + ".out").c_str(), "w", stdout);
 }
 int main(){
   setIO("blist");
