@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 #include <string>
 
 using namespace std;
@@ -10,7 +10,6 @@ void setIO(string s){
   freopen((s + ".out").c_str(), "w", stdout);
 }
 int main(){
-  setIO("d");
+  setIO("abc");
   return 0;
 }
-
